@@ -237,7 +237,7 @@ If you find our work helpful in your research, please consider citing us:
   title = {{S}eek{W}orld: Geolocation is a Natural {RL} Task for o3-like Visual Clue-Tracking},
   author = {Tian, Kaibin and Xin, Zijie and Liu, Jiazhen},
   year = {2025},
-  howpublished = {\url{https://github.com/xxayt/SeekWorld_private}},
+  howpublished = {\url{https://github.com/TheEighthDay/SeekWorld}},
   note = {GitHub repository}
 }
 ```
