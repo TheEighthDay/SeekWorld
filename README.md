@@ -254,5 +254,5 @@ Kaibin Tian: 1109419614@qq.com
 
 Feel free to contact us on WeChat:
 
-<img src="./assets/wechat.JPG" width="300px"/>
+<img src="./assets/wechat.png" width="300px"/>
 
