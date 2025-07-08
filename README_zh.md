@@ -250,7 +250,4 @@ bash examples/scripts/lmm_r1/train_direct_rl_seekworld.sh
 ## 📬 Contact 
 Kaibin Tian: 1109419614@qq.com
 
-欢迎在微信中与我们交流:
-
-<img src="./assets/wechat.JPG" width="300px"/>
 
