@@ -251,8 +251,3 @@ We warmly welcome you to contribute to the SeekWorld project! If you are interes
 
 ## 📬 Contact 
 Kaibin Tian: 1109419614@qq.com
-
-Feel free to contact us on WeChat:
-
-<img src="./assets/wechat.png" width="300px"/>
-
